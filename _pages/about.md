@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaobo's academic web page"
+title: "Welcome to Shaobo's Academic Web Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
