@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Shaobo Zhang, a serious biological researcher interested in various fields of the amazing life science. Trained as a computational biologist, I am combining state-of-art imaging techniques, genetics, genomic analysis, and quantitative data mining to decipher the hidden secretes of lifes.  
+This is Shaobo Zhang, a serious biological researcher interested in various fields of the amazing life science. Trained as a computational biologist, I am combining state-of-art imaging techniques, genetics, genomic analysis, and quantitative data mining to decipher the hidden secretes of life.  
 
 Research Interests
 ======
