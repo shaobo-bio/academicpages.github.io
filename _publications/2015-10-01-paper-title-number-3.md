@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Geometric constraints alter cell arrangements within curved epithelial tissues"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: https://www.molbiolcell.org/doi/full/10.1091/mbc.E17-01-0060?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed
+excerpt: 'Mehcnical geometric infleunce on the cell arrangements'
+date: 2017-10-04
+venue: 'Mol. Biol. Cell'
+paperurl: 'https://www.molbiolcell.org/doi/full/10.1091/mbc.E17-01-0060?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Mehcnical geometric infleunce on the cell arrangements
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://www.molbiolcell.org/doi/full/10.1091/mbc.E17-01-0060?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
