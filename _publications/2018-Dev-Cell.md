@@ -1,5 +1,5 @@
 ---
-title: "Selective filopodia adhesion ensures robust cell matching in the drosophila heart"
+title: "Selective Filopodia Adhesion Ensures Eobust Cell Matching in the Drosophila Heart"
 collection: publications
 permalink: /publication/2018-Dev-Cell
 excerpt: 'How the cells find their targets correctly'
