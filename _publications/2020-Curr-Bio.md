@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-Curr-Bio
 excerpt: 'Under Press.'
 date: 2020-07-16
-venue: 'Current Biology'
+venue: 'Curr. Bio.'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 Undre press
