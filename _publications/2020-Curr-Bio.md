@@ -3,7 +3,7 @@ title: "Periodic Oscillations of MyosinII Mechanically Proofread Cell Cell Conne
 collection: publications
 permalink: /publication/2020-Curr-Bio
 excerpt: 'Under Press'
-date: 2020-07-16
+date: 2020-07
 venue: 'Current Biology'
 paperurl: ''
 ---
