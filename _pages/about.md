@@ -37,7 +37,11 @@ I have also created [a set of Jupyter notebooks](https://github.com/academicpage
 Bio Art Works
 ======
 
-I am fascinated about creating 3D illustration art works for better life sicnece communciations
+I am fascinated about creating 3D illustration art works for better life sicnece communciations.
+
+Let's see some cool image of the Stem Cell:
+
+
 ![Editing a markdown file for a talk](/images/Stem-Cell.png)
 
 Contacts
