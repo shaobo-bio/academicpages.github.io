@@ -1,12 +1,12 @@
 ---
-title: "Mechanical"
+title: "Periodic Oscillations of Myosin-II Mechanically Proofread Cell-Cell Connections to Ensure Robust Formation of the Cardiac Vessel"
 collection: publications
-permalink: /publication/2019-Curr-Bio
-excerpt: 'How the cells find their targets correctly'
+permalink: /publications/2019-Curr-Bio
+excerpt: 'Under Press'
 date: 2020-07-16
 venue: 'Current Biology'
 paperurl: ''
 ---
-How the cells find their targets correctly
+Under Press
 
 [Download paper here]()
