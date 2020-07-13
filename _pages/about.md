@@ -12,7 +12,7 @@ This is Shaobo Zhang, a serious biological researcher interested in various fiel
 
 Education
 ======
-1. 2010-2014: Shanghai Jiao Tong Unviersity; Bachelor degreen in Bioinformatics
+1. 2010-2014: Shanghai Jiao Tong Unviersity; Bachelor Degreen in Bioinformatics
 1. 2014-2019: Mechanobiology Insitute, National University of Singpaore; Ph.D. Degree in Mehcanobiology (Integrative Sciences and Engineering)
 
 Research Experience
