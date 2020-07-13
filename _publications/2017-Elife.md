@@ -1,7 +1,7 @@
 ---
 title: "Decoding temporal interpretation of the morphogen Bicoid in the early Drosophila embryo"
 collection: publications
-permalink: _publications/2017-Elife
+permalink: /publications/2017-Elife
 excerpt: 'Decipher the temporal regulation of morphogen on the embryonic development'
 date: 2017-7-10
 venue: 'Elife'
