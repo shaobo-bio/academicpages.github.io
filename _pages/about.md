@@ -42,5 +42,5 @@ I am fascinated about creating 3D illustration art works for better life sicnece
 
 Contacts
 ======
-Email Address: [shaobo@u.nus.edu](shaobo@u.nus.edu)
+Email Address: shaobo@u.nus.edu
 
