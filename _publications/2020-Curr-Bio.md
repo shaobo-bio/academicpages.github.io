@@ -1,7 +1,7 @@
 ---
 title: "Periodic Oscillations of Myosin-II Mechanically Proofread Cell-Cell Connections to Ensure Robust Formation of the Cardiac Vessel"
 collection: publications
-permalink: /publications/2020-Curr-Bio
+permalink: /publication/2020-Curr-Bio
 excerpt: 'Under Press'
 date: 2020-07-16
 venue: 'Current Biology'
