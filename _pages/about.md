@@ -38,7 +38,7 @@ Bio Art Works
 ======
 
 I am fascinated about creating 3D illustration art works for better life sicnece communciations
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/Stem-Cell.png)
 
 Contacts
 ======
