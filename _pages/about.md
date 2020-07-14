@@ -19,19 +19,19 @@ Research Experience
 ======
 1. 2014-2020: PhD Student & Research Assisocciate at Mechanobiology Institute, Singapore 
 
-    • Independently developed a simplified in vivo system to study cell matching/cell targeting and identified the major molecular regulators and the underlying mechanisms of cell matching process, which led to two first author publications
+    • Independently developed a simplified in vivo system to study cell matching/cell targeting and identified the major molecular regulators & underlying mechanisms. This work leads to two first author publications.
 
-    •	Built Multiview Light-sheet Microscope (contributed to the hardware control and software development) and developed image analysis tools to perform quantitative analysis, which lead to three co-author publications
+    •	Built Multiview Light-sheet Microscope (contributied to the hardware control, software development, system upgrade & maintenance) and developed image analysis tools to perform automatic quantitative analysis. This work leads to three co-author publications.
 
 1. 2018-2018: Visiting Researcher in IRI for the Life Sciences at Humboldt-Universität zu Berlin, Germany
 
-    •	Applied computational analysis of single cell ATAC sequencing data, isolated heart cell specific cluster, revealed the potential tissue-specific transcription regulatory regions, and performed experimental test of the sequencing data-driven predictions
+    •	Applied computational analysis of single cell ATAC sequencing data, isolated heart cell cluster, revealed the potential tissue-specific transcription lanscape, and performed experimental test of the sequencing data-driven predictions. This work leads to one first author publication.
 
 1. 2012-2014: Undergraduate Researchers at Department of Bioinformatics & Biostatistics, Institute of Bioinformatics at Shanghai Jiao Tong University, China
 
-    •	Applied computational system analysis to analyse sub-cellular metabolic network of Arabidopsis
+    •	Applied computational system analysis to analyse sub-cellular metabolic network of Arabidopsis.
 
-    •	Utilized neural networks model to study the enzyme thermostability mechanisms of Thermophilic Xylanase
+    •	Utilized neural networks model to study the enzyme thermostability mechanisms of Thermophilic Xylanase.
 
 Publication
 ======
