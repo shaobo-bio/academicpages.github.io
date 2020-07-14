@@ -66,5 +66,6 @@ I am fascinated about creating 3D illustration art works for better life sicnece
 
 Contacts
 ======
-Email Address: [shaobo@u.nus.edu]
+Email: [shaobo@u.nus.edu]
+Address: 5A Engineering Drive 1, T-lab, #9-01, NUS, Singapore 117411
 
