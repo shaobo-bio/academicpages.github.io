@@ -35,25 +35,19 @@ Research Experience
 
 Publication
 ======
-•	Zhang, S., Teng X., Toyama, Y., and Saunders, T.E.. Periodic oscillations of Myosin-II mechanically proofread cell-cell connections to ensure robust formation of the cardiac vessel. Curr. Biol. (16th July, 2020).
-
-•	Zhang, S., Amourda, C., Garfield, D., and Saunders, T.E. (2018). Selective filopodia adhesion ensures robust cell matching in the Drosophila Heart. Dev Cell 46, 189–203.
-
-•	Rupprecht, J.-F., Ong, K.H., Yin, J., Huang, A., Dinh, H.-H.-Q., Singh, A.P., Zhang, S., Yu, W., and Saunders, T.E. (2017). Geometric constraints alter cell arrangements within curved epithelial tissues. Mol Biol Cell 28 (25), 3582-3594.
-
-•	Huang, A., Amourda, C., Zhang, S., Tolwinski, N.S., and Saunders, T.E. (2017). Decoding temporal interpretation of the morphogen Bicoid in the early Drosophila embryo. Elife 6, e26258. 
+1. Zhang, S., Teng X., Toyama, Y., and Saunders, T.E.. Periodic oscillations of Myosin-II mechanically proofread cell-cell connections to ensure robust formation of the cardiac vessel. Curr. Biol. (16th July, 2020).
+1.Tlili, S., Shagirov, M., Zhang, S., and Saunders, T.E. Interfacial energy constraints are sufficient to align cells over large distances. (BioRxiv 653535).
+1. Zhang, S., Amourda, C., Garfield, D., and Saunders, T.E. (2018). Selective filopodia adhesion ensures robust cell matching in the Drosophila Heart. Dev Cell 46, 189–203.
+1. Rupprecht, J.-F., Ong, K.H., Yin, J., Huang, A., Dinh, H.-H.-Q., Singh, A.P., Zhang, S., Yu, W., and Saunders, T.E. (2017). Geometric constraints alter cell arrangements within curved epithelial tissues. Mol Biol Cell 28 (25), 3582-3594.
+1. Huang, A., Amourda, C., Zhang, S., Tolwinski, N.S., and Saunders, T.E. (2017). Decoding temporal interpretation of the morphogen Bicoid in the early Drosophila embryo. Elife 6, e26258. 
 
 Conference Presentations
 ======
-•	Biology and Physics Confront Cell-Cell Adhension, Aussois, France, October 2019 (Oral Presentation)
-
-•	Society for Developmental Biology, 78th Annual Meeting, Boston, MA, United States, July, 2019 (Poster Presentation)
-
-•	Joint NUS-HU workshop on Patterning and Timing in Development and Evolution, Berlin, Germany, February 2018 (Oral Presentation)
-
-•	3rd International Symposium on Mechanobiology, Singapore, December 2017 (Oral Presentation)
-
-•	International Congress of Developmental Biology, Singapore, June 2017 (Poster Presentation)
+1. Biology and Physics Confront Cell-Cell Adhension, Aussois, France, October 2019 (Oral Presentation)
+1. Society for Developmental Biology, 78th Annual Meeting, Boston, MA, United States, July, 2019 (Poster Presentation)
+1. Joint NUS-HU workshop on Patterning and Timing in Development and Evolution, Berlin, Germany, February 2018 (Oral Presentation)
+1. 3rd International Symposium on Mechanobiology, Singapore, December 2017 (Oral Presentation)
+1. International Congress of Developmental Biology, Singapore, June 2017 (Poster Presentation)
 
 Bio Art Works
 ======
