@@ -29,8 +29,7 @@ Research Experience
 
 1. 2012-2014: Undergraduate Researchers at Department of Bioinformatics & Biostatistics, Institute of Bioinformatics at Shanghai Jiao Tong University, China
 
-    •	Applied computational system analysis to analyse sub-cellular metabolic network of Arabidopsis.
-    •	Utilized neural networks model to study the enzyme thermostability mechanisms of Thermophilic Xylanase.
+    •	Applied computational system analysis to analyse sub-cellular metabolic network of Arabidopsis; Utilized neural networks model to study the enzyme thermostability mechanisms of Thermophilic Xylanase.
 
 Publication
 ======
