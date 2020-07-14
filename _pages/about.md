@@ -58,10 +58,7 @@ Conference Presentations
 Bio Art Works
 ======
 
-I am fascinated about creating 3D illustration art works for better life sicnece communciations.
-
-Let's see some cool image of the Stem Cell:
-
+I am fascinated about creating 3D illustration art works for better life sicnece communciations. Let's see some cool image of the Stem Cell:
 
 ![Editing a markdown file for a talk](/images/Stem-Cell.png)
 
