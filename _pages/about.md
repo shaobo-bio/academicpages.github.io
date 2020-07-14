@@ -55,7 +55,7 @@ Skills
 1. Microscopy:
     Confocal Microscopy, Two Photon Microscopy, Light-Sheet Microscopy, Spinning Disk Microscopy, UV Laser Ablation
 1. Computational Analysis & Programming:
-    Automatic Imaging Segmentation and Analysis (Matlab), Data Analysis and Visualization (Matlab, Python, R), Control Software Development (LabView), Single Cell Sequencing Analysis & Machine Learning in Biological Datasets (Python) 
+    Automatic Bio-Image Segmentation and Analysis (Matlab), Data Quantification and Visualization (Matlab, Python, R), Control Software Development (LabView), Single Cell Sequencing Analysis & Machine Learning in Biological Datasets (Python) 
 
 Bio Art Works
 ======
