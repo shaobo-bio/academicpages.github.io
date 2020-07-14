@@ -47,6 +47,16 @@ Conference Presentations
 1. 3rd International Symposium on Mechanobiology, Singapore, December 2017 (Oral Presentation)
 1. International Congress of Developmental Biology, Singapore, June 2017 (Poster Presentation)
 
+Skills
+======
+
+1. Experimental Skills:
+    Molecular Cloning, Genetics, Model Animal (Drosophila) Genetics, Immunostaining, in situ Hybridization, q-PCR, Chromatin immunoprecipitation experiments (CHIP) , Cell Culture
+1. Microscopy:
+    Confocal Microscopy, Two Photon Microscopy, Light-Sheet Microscopy, Spinning Disk Microscopy, UV Laser Ablation
+1. Computational Analysis & Programming:
+    Automatic Imaging Segmentation and Analysis (Matlab), Data Analysis and Visualization (Matlab, Python, R), Control Software Development (LabView), Single Cell Sequencing Analysis & Machine Learning in Biological Datasets (Python) 
+
 Bio Art Works
 ======
 
