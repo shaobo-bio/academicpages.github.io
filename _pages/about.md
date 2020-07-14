@@ -19,7 +19,7 @@ Research Experience
 ======
 1. 2014-2020: PhD Student & Research Assisocciate at Mechanobiology Institute, Singapore 
 
-    • Independently developed a simplified in vivo system to study cell matching/cell targeting and identified the major molecular regulators & underlying mechanisms. This work leads to two first author publications.
+    • Independently developed a simplified in vivo system to study cell matching/cell targeting and identified the major molecular regulators & underlying mechanisms. This work leads to two Top-Tier first author publications.
 
     •	Built Multiview Light-sheet Microscope (contributied to the hardware control, software development, system upgrade & maintenance) and developed image analysis tools to perform automatic quantitative analysis. This work leads to three co-author publications.
 
