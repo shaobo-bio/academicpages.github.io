@@ -39,14 +39,6 @@ Publication
 1. Rupprecht, J.-F., Ong, K.H., Yin, J., Huang, A., Dinh, H.-H.-Q., Singh, A.P., Zhang, S., Yu, W., and Saunders, T.E. (2017). Geometric constraints alter cell arrangements within curved epithelial tissues. Mol Biol Cell 28 (25), 3582-3594.
 1. Huang, A., Amourda, C., Zhang, S., Tolwinski, N.S., and Saunders, T.E. (2017). Decoding temporal interpretation of the morphogen Bicoid in the early Drosophila embryo. Elife 6, e26258. 
 
-Conference Presentations
-======
-1. Biology and Physics Confront Cell-Cell Adhension, Aussois, France, October 2019 (Oral Presentation)
-1. Society for Developmental Biology, 78th Annual Meeting, Boston, MA, United States, July, 2019 (Poster Presentation)
-1. Joint NUS-HU workshop on Patterning and Timing in Development and Evolution, Berlin, Germany, February 2018 (Oral Presentation)
-1. 3rd International Symposium on Mechanobiology, Singapore, December 2017 (Oral Presentation)
-1. International Congress of Developmental Biology, Singapore, June 2017 (Poster Presentation)
-
 Skills
 ======
 
@@ -66,7 +58,7 @@ I am fascinated about creating 3D illustration art works for better life sicnece
 
 Contacts
 ======
-Email: [shaobo@u.nus.edu]()
+Email: [shaobo@u.nus.edu]
 
 Address: [5A Engineering Drive 1, T-lab, #9-01, NUS, Singapore 117411](https://www.google.com/maps/place/Mechanobiology+Institute/@1.3000393,103.7721158,15z/data=!4m2!3m1!1s0x0:0x5e19f3314b1266db?sa=X&ved=2ahUKEwjghLiwgszqAhWszTgGHUtUACUQ_BIwEHoECBAQCA)
 
