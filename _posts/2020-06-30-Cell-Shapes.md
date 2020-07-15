@@ -11,7 +11,7 @@ tags:
 
 Even with the same set of DNA, cells in our body can have dramatically different morphologies:
 
-![3D Reconstruct](/images/DNA-01.png)
+![3D Cells](/images/Cells.png)
 
 Cells with Dramatically Different Shapes: Red Blood Cells and Neurons
 ======
