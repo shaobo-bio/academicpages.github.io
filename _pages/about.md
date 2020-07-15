@@ -52,7 +52,7 @@ Skills
 Bio Art Works
 ======
 
-I am fascinated about creating 3D illustration art works for better life sicnece communciations. Let's see some cool image of the Stem Cell:
+I am fascinated about creating 3D illustration art works for better life sicnece communciations. Let's see some cool image of the Stem Cell (To see more interesting works, please check the '3D Bio-Blog' section):
 
 ![Editing a markdown file for a talk](/images/Stem-Cell.png)
 
