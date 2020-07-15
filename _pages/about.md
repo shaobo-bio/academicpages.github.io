@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Shaobo Zhang, a serious biological researcher interested in various fields of the amazing life science. Trained as a computational biologist, I am combining state-of-art imaging techniques, genetics, genomic analysis, and quantitative data mining to decipher the hidden secretes of life.  
+This is Shaobo Zhang, a serious biological researcher interested in various fields of life science. Trained as a computational biologist, I am now combining state-of-art imaging techniques, molecular genetics, genomic analysis, and quantitative data mining to decipher the hidden secretes of life.  
 
 Education
 ======
@@ -52,7 +52,7 @@ Skills
 Bio Art Works
 ======
 
-I am fascinated about creating 3D illustration art works for better life sicnece communciations. Let's see some cool image of the Stem Cell (To see more interesting works, please check the '3D Bio-Blog' section):
+I am fascinated about creating 3D illustration art works for better communciations in life science. Let's see some cool image of the Stem Cell (to see more interesting works, please check the '3D Bio-Blog' section):
 
 ![Stem Cell](/images/Stem_Cell.png)
 
