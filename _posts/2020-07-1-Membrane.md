@@ -1,6 +1,6 @@
 ---
 title: 'Membrane'
-date: 2014-08-14
+date: 2020-07-1
 permalink: /posts/2020/07/Membrane/
 tags:
   - cool posts
