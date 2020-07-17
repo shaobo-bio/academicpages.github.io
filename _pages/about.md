@@ -33,7 +33,7 @@ Research Experience
 
 Publication
 ======
-1. Zhang, S., Teng X., Toyama, Y., and Saunders, T.E. (2020). Periodic oscillations of Myosin-II mechanically proofread cell-cell connections to ensure robust formation of the cardiac vessel. Curr. Biol.
+1. Zhang, S., Teng X., Toyama, Y., and Saunders, T.E. (2020). Periodic oscillations of Myosin-II mechanically proofread cell-cell connections to ensure robust formation of the cardiac vessel. Curr. Biol. 30, 1-14.
 1. Tlili, S., Shagirov, M., Zhang, S., and Saunders, T.E. (2019). Interfacial energy constraints are sufficient to align cells over large distances. (BioRxiv 653535).
 1. Zhang, S., Amourda, C., Garfield, D., and Saunders, T.E. (2018). Selective filopodia adhesion ensures robust cell matching in the Drosophila Heart. Dev Cell 46, 189–203.
 1. Rupprecht, J.-F., Ong, K.H., Yin, J., Huang, A., Dinh, H.-H.-Q., Singh, A.P., Zhang, S., Yu, W., and Saunders, T.E. (2017). Geometric constraints alter cell arrangements within curved epithelial tissues. Mol Biol Cell 28 (25), 3582-3594.
@@ -43,7 +43,7 @@ Skills
 ======
 
 1. Experimental Skills:
-    Molecular Cloning, Genetics, Model Animal (Drosophila) Genetics, Immunostaining, in situ Hybridization, q-PCR, Chromatin immunoprecipitation experiments (CHIP) , Cell Culture
+    Molecular Cloning, Genetics, Model Animal (Drosophila) Genetics, Immunostaining, in situ Hybridization, q-PCR, Chromatin immunoprecipitation(CHIP) , Cell Culture
 1. Microscopy:
     Confocal Microscopy, Two Photon Microscopy, Light-Sheet Microscopy, Spinning Disk Microscopy, UV Laser Ablation
 1. Computational Analysis & Programming:
