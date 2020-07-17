@@ -1,6 +1,6 @@
 ---
 title: 'Under the Shadow of Coronavirus'
-date: 2020-07-18
+date: 2020-07-17
 permalink: /posts/2020/07/Corona/
 tags:
   - cool posts
